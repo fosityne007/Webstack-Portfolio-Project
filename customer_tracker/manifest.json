@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "customer tracker",
+    "action": {
+        "default_popup": "00_index.html",
+        "default_icon": "icon.PNG"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

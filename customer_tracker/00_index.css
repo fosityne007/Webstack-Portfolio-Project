@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 4px;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid blue;
+    font-weight: bold;
+}
+
+/* style the button according to the provide design */
+#delete-btn {
+    background: white;
+    color: blue;
+}
+
+
+
+/* STYLE THE LIST ACCORDING TO THE DESIGN */
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: blue; 
+}
